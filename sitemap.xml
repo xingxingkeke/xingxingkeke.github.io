@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xingxingkeke.github.io/xingxingkeke/2021/03/10/test/</loc>
+    <loc>https://xingxingkeke.github.io/2021/03/10/test/</loc>
     
     <lastmod>2021-03-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://xingxingkeke.github.io/xingxingkeke/2021/03/10/hello-world/</loc>
+    <loc>https://xingxingkeke.github.io/2021/03/10/hello-world/</loc>
     
     <lastmod>2021-03-10</lastmod>
     
@@ -17,7 +17,7 @@
   
 
   <url>
-    <loc>https://xingxingkeke.github.io/xingxingkeke</loc>
+    <loc>https://xingxingkeke.github.io/</loc>
     <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -25,7 +25,7 @@
 
   
   <url>
-    <loc>https://xingxingkeke.github.io/xingxingkeke/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://xingxingkeke.github.io/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
